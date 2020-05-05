@@ -1,0 +1,6 @@
+paralleltest/ui/SearchBox.class
+paralleltest/tasks/Search.class
+paralleltest/tasks/OpenTheApplication.class
+paralleltest/features/search/package-info.class
+paralleltest/ui/GoogleSearchPage.class
+paralleltest/features/search/SearchByKeywordStory.class
